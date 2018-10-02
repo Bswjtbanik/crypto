@@ -1,0 +1,16 @@
+PODS:
+  - BlueCryptor (1.0.13)
+
+DEPENDENCIES:
+  - BlueCryptor
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BlueCryptor
+
+SPEC CHECKSUMS:
+  BlueCryptor: 8b43926580d4b1214897861cd0b045dc77b2be06
+
+PODFILE CHECKSUM: 51382c175a6cf7b1187c7b5a68e656651dc1c731
+
+COCOAPODS: 1.5.3
